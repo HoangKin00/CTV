@@ -1,0 +1,42 @@
+.bg {
+    background: #eee;
+}
+
+.box {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.title-main {
+    font-family: emoji;
+    color: #5d70ea;
+}
+
+.bg-blue-600 {
+    background: #7da7eb;
+}
+
+.title:hover {
+    background: #b9c9e2;
+    border-radius: 10px;
+}
+.list {
+    background: #eee;
+}
+
+p {
+    margin: 0;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.list-item {
+    width: 49%;
+}
+.box2 {
+    width: 85%;
+    margin: 0 auto;
+}
+.container {
+    min-height: 100vh;
+}
